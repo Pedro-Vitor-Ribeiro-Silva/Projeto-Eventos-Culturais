@@ -1,27 +1,37 @@
 ### Curso Técnico de Desenvolvimento de Sistemas - Senai Itapeva
-# Nome do Projeto
+
+<h1 aling='center'>Site de Eventos Culturais -<br> REAL EVENTS</h1>
+
+![cabeçalho-real-events](assets/img/cabecalhoreadme.png)
+
 **Descrição:**
-Escreva uma breve descrição do projeto, explicando seu propósito, funcionalidades e o problema que ele resolve.
+O "Real Events" é um site voltado para a divulgação e promoção de eventos culturais. Ele permite aos usuários visualizar os eventos mais recentes, obter detalhes sobre artistas e acontecimentos e se manter informados sobre as novidades culturais. O projeto busca solucionar a dificuldade de encontrar informações centralizadas sobre eventos, oferecendo uma interface simples e intuitiva para os usuários acessarem e navegarem por diversas opções de eventos
 ## Índice
-- Funcionalidades
-- Tecnologias Utilizadas
-- Autores
-- Licença
+
+* [Funcionalidades](#funcionalidades)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas)
+* [Autores](#autores)
+* [Licença](#licença)
 ## Funcionalidades
-- Listar as principais funcionalidades do projeto, como:
- - Exemplo: Adicionar tarefas em uma lista.
- - Exemplo: Editar e excluir tarefas.
- - Exemplo: Persistência de dados localmente.
+- Listar os principais eventos culturais da semana.
+- Exibir um carrossel de destaques com imagens e descrições.
+- Apresentar detalhes dos eventos através de cards interativos.
+- Permitir busca de eventos específicos.
+- Oferecer páginas dedicadas a informações institucionais e de contato.
+- Cadastrar Eventos Novos 
+- Cadastro e Login no site
 ## Tecnologias Utilizadas
 - **Linguagem/Frameworks:**
- Liste as principais tecnologias usadas no projeto, como por exemplo:
- - React Native
- - Expo
- - Node.js
- - Firebase
+  
+   ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 ## Autores
-Mencione o nome dos alunos responsáveis pelo desenvolvimento do projeto e seus respectivos contatos.
-- Nome do Aluno 1 - GitHub - aluno1@senai.com.br
-- Nome do Aluno 2 - GitHub - aluno2@senai.com.br
+Pedro Vitor Ribeiro Silva - GitHub - pedrovitorrbeirosilva@gmail.com
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
